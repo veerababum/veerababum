@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a [Your Role], from [Your Location]</h2>
+<h2 align="left">Hi 👋! My name is Veerababu Mulugu and I'm a iOS Developer, from USA </h2>
 
 ###
 
